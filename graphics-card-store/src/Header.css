@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .header-image {
+    width: 100px;
+    height: auto;
+  }
+  
+  .header-title {
+    font-size: 24px;
+  }
+  
